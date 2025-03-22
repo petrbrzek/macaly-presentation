@@ -22,6 +22,8 @@ import GitHubPRSlide from "./slides/GitHubPRSlide";
 import LangtailSlide from "./slides/LangtailSlide";
 import LangtailInterfaceSlide from "./slides/LangtailInterfaceSlide";
 import VennDiagramSlide from "./slides/VennDiagramSlide";
+import LaunchAnnouncementSlide from './slides/LaunchAnnouncementSlide';
+import PricingSlide from './slides/PricingSlide';
 import GeneratedBySlide from "./slides/GeneratedBySlide";
 
 const variants = {
@@ -111,6 +113,8 @@ export default function SlideRenderer() {
     LangtailSlide,
     LangtailInterfaceSlide,
     VennDiagramSlide,
+    LaunchAnnouncementSlide,
+    PricingSlide,
     GeneratedBySlide,
   };
 
