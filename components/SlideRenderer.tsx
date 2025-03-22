@@ -15,6 +15,10 @@ import CompetitorsSlide from "./slides/CompetitorsSlide";
 import TweetImageSlide from "./slides/TweetImageSlide";
 import DifferencesSlide from "./slides/DifferencesSlide";
 import MacalyInterfaceSlide from "./slides/MacalyInterfaceSlide";
+import iPhoneInterfaceSlide from "./slides/iPhoneInterfaceSlide";
+import AmbientAgentSlide from "./slides/AmbientAgentSlide";
+import GitHubIssueSlide from "./slides/GitHubIssueSlide";
+import GitHubPRSlide from "./slides/GitHubPRSlide";
 import LangtailSlide from "./slides/LangtailSlide";
 import LangtailInterfaceSlide from "./slides/LangtailInterfaceSlide";
 import VennDiagramSlide from "./slides/VennDiagramSlide";
@@ -100,6 +104,10 @@ export default function SlideRenderer() {
     TweetImageSlide,
     DifferencesSlide,
     MacalyInterfaceSlide,
+    iPhoneInterfaceSlide,
+    AmbientAgentSlide,
+    GitHubIssueSlide,
+    GitHubPRSlide,
     LangtailSlide,
     LangtailInterfaceSlide,
     VennDiagramSlide,
