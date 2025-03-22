@@ -37,6 +37,22 @@ export const slides: Slide[] = [
     component: "MacalyInterfaceSlide",
   },
   {
+    id: "iphone-interface",
+    component: "iPhoneInterfaceSlide",
+  },
+  {
+    id: "ambient-agent",
+    component: "AmbientAgentSlide",
+  },
+  {
+    id: "github-issue",
+    component: "GitHubIssueSlide",
+  },
+  {
+    id: "github-pr",
+    component: "GitHubPRSlide",
+  },
+  {
     id: "langtail",
     component: "LangtailSlide",
   },
