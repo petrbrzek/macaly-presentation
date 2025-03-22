@@ -65,6 +65,14 @@ export const slides: Slide[] = [
     component: "VennDiagramSlide",
   },
   {
+    id: "announcement",
+    component: "LaunchAnnouncementSlide",
+  },
+  {
+    id: "pricing-slide",
+    component: "PricingSlide",
+  },
+  {
     id: "generated-by",
     component: "GeneratedBySlide",
   },
